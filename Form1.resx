@@ -121,592 +121,13 @@
   <data name="metroTabControl1.Appearance" type="System.Windows.Forms.TabAppearance, System.Windows.Forms">
     <value>FlatButtons</value>
   </data>
-  <data name="&gt;&gt;labelStatusVideo.Name" xml:space="preserve">
-    <value>labelStatusVideo</value>
-  </data>
-  <data name="&gt;&gt;labelStatusVideo.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;labelStatusVideo.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;labelStatusVideo.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pbDownloadVideo.Name" xml:space="preserve">
-    <value>pbDownloadVideo</value>
-  </data>
-  <data name="&gt;&gt;pbDownloadVideo.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroProgressBar, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;pbDownloadVideo.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;pbDownloadVideo.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnLocationVideo.Name" xml:space="preserve">
-    <value>btnLocationVideo</value>
-  </data>
-  <data name="&gt;&gt;btnLocationVideo.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnLocationVideo.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;btnLocationVideo.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;tbLocationVideo.Name" xml:space="preserve">
-    <value>tbLocationVideo</value>
-  </data>
-  <data name="&gt;&gt;tbLocationVideo.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;tbLocationVideo.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;tbLocationVideo.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btnCleanVideos.Name" xml:space="preserve">
-    <value>btnCleanVideos</value>
-  </data>
-  <data name="&gt;&gt;btnCleanVideos.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnCleanVideos.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;btnCleanVideos.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;btnDownloadVideos.Name" xml:space="preserve">
-    <value>btnDownloadVideos</value>
-  </data>
-  <data name="&gt;&gt;btnDownloadVideos.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnDownloadVideos.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;btnDownloadVideos.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;listBoxLinksVideos.Name" xml:space="preserve">
-    <value>listBoxLinksVideos</value>
-  </data>
-  <data name="&gt;&gt;listBoxLinksVideos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;listBoxLinksVideos.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;listBoxLinksVideos.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;metroLabel1.Name" xml:space="preserve">
-    <value>metroLabel1</value>
-  </data>
-  <data name="&gt;&gt;metroLabel1.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroLabel1.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;metroLabel1.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;btnAddVideo.Name" xml:space="preserve">
-    <value>btnAddVideo</value>
-  </data>
-  <data name="&gt;&gt;btnAddVideo.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnAddVideo.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;btnAddVideo.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;tbVideoLink.Name" xml:space="preserve">
-    <value>tbVideoLink</value>
-  </data>
-  <data name="&gt;&gt;tbVideoLink.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;tbVideoLink.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;tbVideoLink.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="tabPage1.ImageKey" xml:space="preserve">
-    <value>(none)</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 41</value>
-  </data>
-  <data name="tabPage1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="tabPage1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>682, 432</value>
-  </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="tabPage1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="tabPage1.Text" xml:space="preserve">
-    <value>Youtube Video Download</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.Name" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
-    <value>metroTabControl1</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;labelStatusMusic.Name" xml:space="preserve">
-    <value>labelStatusMusic</value>
-  </data>
-  <data name="&gt;&gt;labelStatusMusic.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;labelStatusMusic.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;labelStatusMusic.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pbDownloadMusic.Name" xml:space="preserve">
-    <value>pbDownloadMusic</value>
-  </data>
-  <data name="&gt;&gt;pbDownloadMusic.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroProgressBar, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;pbDownloadMusic.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;pbDownloadMusic.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnLocationMusic.Name" xml:space="preserve">
-    <value>btnLocationMusic</value>
-  </data>
-  <data name="&gt;&gt;btnLocationMusic.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnLocationMusic.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;btnLocationMusic.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;btnCleanMusic.Name" xml:space="preserve">
-    <value>btnCleanMusic</value>
-  </data>
-  <data name="&gt;&gt;btnCleanMusic.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnCleanMusic.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;btnCleanMusic.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btnDownloadMusic.Name" xml:space="preserve">
-    <value>btnDownloadMusic</value>
-  </data>
-  <data name="&gt;&gt;btnDownloadMusic.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnDownloadMusic.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;btnDownloadMusic.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;tbLocationMusic.Name" xml:space="preserve">
-    <value>tbLocationMusic</value>
-  </data>
-  <data name="&gt;&gt;tbLocationMusic.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;tbLocationMusic.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;tbLocationMusic.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;listBoxLinksMusic.Name" xml:space="preserve">
-    <value>listBoxLinksMusic</value>
-  </data>
-  <data name="&gt;&gt;listBoxLinksMusic.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;listBoxLinksMusic.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;listBoxLinksMusic.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;metroLabel4.Name" xml:space="preserve">
-    <value>metroLabel4</value>
-  </data>
-  <data name="&gt;&gt;metroLabel4.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroLabel4.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;metroLabel4.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;btnAddMusic.Name" xml:space="preserve">
-    <value>btnAddMusic</value>
-  </data>
-  <data name="&gt;&gt;btnAddMusic.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnAddMusic.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;btnAddMusic.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;tbMusicLink.Name" xml:space="preserve">
-    <value>tbMusicLink</value>
-  </data>
-  <data name="&gt;&gt;tbMusicLink.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;tbMusicLink.Parent" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;tbMusicLink.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 41</value>
-  </data>
-  <data name="tabPage2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="tabPage2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>682, 432</value>
-  </data>
-  <data name="tabPage2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="tabPage2.Text" xml:space="preserve">
-    <value>Youtube Music Download</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.Name" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
-    <value>metroTabControl1</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;lbPercent.Name" xml:space="preserve">
-    <value>lbPercent</value>
-  </data>
-  <data name="&gt;&gt;lbPercent.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;lbPercent.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;lbPercent.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lbConvert.Name" xml:space="preserve">
-    <value>lbConvert</value>
-  </data>
-  <data name="&gt;&gt;lbConvert.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;lbConvert.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;lbConvert.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;pbConvert.Name" xml:space="preserve">
-    <value>pbConvert</value>
-  </data>
-  <data name="&gt;&gt;pbConvert.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroProgressBar, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;pbConvert.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;pbConvert.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;cbPower.Name" xml:space="preserve">
-    <value>cbPower</value>
-  </data>
-  <data name="&gt;&gt;cbPower.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroCheckBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;cbPower.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;cbPower.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;metroButton11.Name" xml:space="preserve">
-    <value>metroButton11</value>
-  </data>
-  <data name="&gt;&gt;metroButton11.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroButton11.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;metroButton11.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;metroLabel9.Name" xml:space="preserve">
-    <value>metroLabel9</value>
-  </data>
-  <data name="&gt;&gt;metroLabel9.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroLabel9.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;metroLabel9.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;cbCards.Name" xml:space="preserve">
-    <value>cbCards</value>
-  </data>
-  <data name="&gt;&gt;cbCards.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroComboBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;cbCards.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;cbCards.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;metroLabel8.Name" xml:space="preserve">
-    <value>metroLabel8</value>
-  </data>
-  <data name="&gt;&gt;metroLabel8.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroLabel8.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;metroLabel8.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;cbFormat.Name" xml:space="preserve">
-    <value>cbFormat</value>
-  </data>
-  <data name="&gt;&gt;cbFormat.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroComboBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;cbFormat.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;cbFormat.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;metroLabel7.Name" xml:space="preserve">
-    <value>metroLabel7</value>
-  </data>
-  <data name="&gt;&gt;metroLabel7.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroLabel7.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;metroLabel7.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;cbSpeed.Name" xml:space="preserve">
-    <value>cbSpeed</value>
-  </data>
-  <data name="&gt;&gt;cbSpeed.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroComboBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;cbSpeed.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;cbSpeed.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;metroLabel6.Name" xml:space="preserve">
-    <value>metroLabel6</value>
-  </data>
-  <data name="&gt;&gt;metroLabel6.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroLabel6.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;metroLabel6.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;cbBits.Name" xml:space="preserve">
-    <value>cbBits</value>
-  </data>
-  <data name="&gt;&gt;cbBits.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroComboBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;cbBits.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;cbBits.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="&gt;&gt;lbConvertFiles.Name" xml:space="preserve">
-    <value>lbConvertFiles</value>
-  </data>
-  <data name="&gt;&gt;lbConvertFiles.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lbConvertFiles.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;lbConvertFiles.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;metroLabel5.Name" xml:space="preserve">
-    <value>metroLabel5</value>
-  </data>
-  <data name="&gt;&gt;metroLabel5.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroLabel5.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;metroLabel5.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;btnSelectExit.Name" xml:space="preserve">
-    <value>btnSelectExit</value>
-  </data>
-  <data name="&gt;&gt;btnSelectExit.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnSelectExit.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;btnSelectExit.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;tbConvertExit.Name" xml:space="preserve">
-    <value>tbConvertExit</value>
-  </data>
-  <data name="&gt;&gt;tbConvertExit.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;tbConvertExit.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;tbConvertExit.ZOrder" xml:space="preserve">
-    <value>16</value>
-  </data>
-  <data name="&gt;&gt;btnAddConvert.Name" xml:space="preserve">
-    <value>btnAddConvert</value>
-  </data>
-  <data name="&gt;&gt;btnAddConvert.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroButton, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;btnAddConvert.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;btnAddConvert.ZOrder" xml:space="preserve">
-    <value>17</value>
-  </data>
-  <data name="&gt;&gt;tbConvertLocal.Name" xml:space="preserve">
-    <value>tbConvertLocal</value>
-  </data>
-  <data name="&gt;&gt;tbConvertLocal.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroTextBox, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;tbConvertLocal.Parent" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;tbConvertLocal.ZOrder" xml:space="preserve">
-    <value>18</value>
-  </data>
-  <data name="tabPage3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 41</value>
-  </data>
-  <data name="tabPage3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="tabPage3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>682, 432</value>
-  </data>
-  <data name="tabPage3.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="tabPage3.Text" xml:space="preserve">
-    <value>Video Converter</value>
-  </data>
-  <data name="&gt;&gt;tabPage3.Name" xml:space="preserve">
-    <value>tabPage3</value>
-  </data>
-  <data name="&gt;&gt;tabPage3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPage3.Parent" xml:space="preserve">
-    <value>metroTabControl1</value>
-  </data>
-  <data name="&gt;&gt;tabPage3.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="metroTabControl1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="metroTabControl1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 68</value>
-  </data>
-  <data name="metroTabControl1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="metroTabControl1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>690, 477</value>
-  </data>
-  <data name="metroTabControl1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;metroTabControl1.Name" xml:space="preserve">
-    <value>metroTabControl1</value>
-  </data>
-  <data name="&gt;&gt;metroTabControl1.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroTabControl, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;metroTabControl1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;metroTabControl1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="labelStatusVideo.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="labelStatusVideo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 370</value>
+    <value>10, 370</value>
   </data>
   <data name="labelStatusVideo.Size" type="System.Drawing.Size, System.Drawing">
     <value>99, 19</value>
@@ -989,6 +410,36 @@
   </data>
   <data name="&gt;&gt;tbVideoLink.ZOrder" xml:space="preserve">
     <value>9</value>
+  </data>
+  <data name="tabPage1.ImageKey" xml:space="preserve">
+    <value>(none)</value>
+  </data>
+  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 41</value>
+  </data>
+  <data name="tabPage1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="tabPage1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>682, 432</value>
+  </data>
+  <data name="tabPage1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tabPage1.Text" xml:space="preserve">
+    <value>Youtube Video Download</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Name" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
+    <value>metroTabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="labelStatusMusic.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1277,6 +728,60 @@
   </data>
   <data name="&gt;&gt;tbMusicLink.ZOrder" xml:space="preserve">
     <value>9</value>
+  </data>
+  <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 41</value>
+  </data>
+  <data name="tabPage2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="tabPage2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>682, 432</value>
+  </data>
+  <data name="tabPage2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>Youtube Music Download</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Name" xml:space="preserve">
+    <value>tabPage2</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
+    <value>metroTabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbPercent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>600, 370</value>
+  </data>
+  <data name="lbPercent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 19</value>
+  </data>
+  <data name="lbPercent.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="lbPercent.Text" xml:space="preserve">
+    <value>0%</value>
+  </data>
+  <data name="lbPercent.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lbPercent.Name" xml:space="preserve">
+    <value>lbPercent</value>
+  </data>
+  <data name="&gt;&gt;lbPercent.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;lbPercent.Parent" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="&gt;&gt;lbPercent.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="lbConvert.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1836,31 +1341,58 @@
   <data name="&gt;&gt;tbConvertLocal.ZOrder" xml:space="preserve">
     <value>18</value>
   </data>
-  <data name="lbPercent.Location" type="System.Drawing.Point, System.Drawing">
-    <value>600, 370</value>
+  <data name="tabPage3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 41</value>
   </data>
-  <data name="lbPercent.Size" type="System.Drawing.Size, System.Drawing">
-    <value>70, 19</value>
+  <data name="tabPage3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
   </data>
-  <data name="lbPercent.TabIndex" type="System.Int32, mscorlib">
-    <value>28</value>
+  <data name="tabPage3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>682, 432</value>
   </data>
-  <data name="lbPercent.Text" xml:space="preserve">
-    <value>0%</value>
+  <data name="tabPage3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
-  <data name="lbPercent.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleRight</value>
+  <data name="tabPage3.Text" xml:space="preserve">
+    <value>Video Converter</value>
   </data>
-  <data name="&gt;&gt;lbPercent.Name" xml:space="preserve">
-    <value>lbPercent</value>
-  </data>
-  <data name="&gt;&gt;lbPercent.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
-  </data>
-  <data name="&gt;&gt;lbPercent.Parent" xml:space="preserve">
+  <data name="&gt;&gt;tabPage3.Name" xml:space="preserve">
     <value>tabPage3</value>
   </data>
-  <data name="&gt;&gt;lbPercent.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;tabPage3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.Parent" xml:space="preserve">
+    <value>metroTabControl1</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="metroTabControl1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="metroTabControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 68</value>
+  </data>
+  <data name="metroTabControl1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="metroTabControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>690, 477</value>
+  </data>
+  <data name="metroTabControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;metroTabControl1.Name" xml:space="preserve">
+    <value>metroTabControl1</value>
+  </data>
+  <data name="&gt;&gt;metroTabControl1.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroTabControl, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="&gt;&gt;metroTabControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;metroTabControl1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">

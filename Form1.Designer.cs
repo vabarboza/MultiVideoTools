@@ -86,7 +86,7 @@
             this.metroTabControl1.Controls.Add(this.tabPage3);
             this.metroTabControl1.FontWeight = MetroFramework.MetroTabControlWeight.Regular;
             this.metroTabControl1.Name = "metroTabControl1";
-            this.metroTabControl1.SelectedIndex = 2;
+            this.metroTabControl1.SelectedIndex = 0;
             this.metroTabControl1.SizeMode = System.Windows.Forms.TabSizeMode.FillToRight;
             this.metroTabControl1.Style = MetroFramework.MetroColorStyle.Orange;
             this.metroTabControl1.UseSelectable = true;
