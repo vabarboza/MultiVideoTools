@@ -373,7 +373,7 @@ namespace MultiVideoTools
                     tbConvertLocal.Text = dialog.SelectedPath;
                     lbConvertFiles.Items.Clear();
 
-                    string[] videoExtensions = { ".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv", ".webm" };
+                    string[] videoExtensions = { ".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv", ".webm", ".ts" };
 
                     string[] inputFiles = Directory.GetFiles(dialog.SelectedPath, "*.*")
                                                    .Where(f => videoExtensions.Contains(Path.GetExtension(f).ToLower()))
