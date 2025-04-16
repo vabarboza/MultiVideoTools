@@ -480,13 +480,21 @@ namespace MultiVideoTools
             try
             {
                 string ffmpegPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "ffmpeg");
-                await FFmpegDownloader.GetLatestVersion(FFmpegVersion.Official, ffmpegPath);
+                if (string.IsNullOrEmpty(ffmpegPath))
+                {
+                    await FFmpegDownloader.GetLatestVersion(FFmpegVersion.Official, ffmpegPath);
+                }
+
                 FFmpeg.SetExecutablesPath(ffmpegPath);
 
                 var mediaInfo = await FFmpeg.GetMediaInfo(inputPath);
                 var videoStream = mediaInfo.VideoStreams.FirstOrDefault();
-                var audioStream = mediaInfo.AudioStreams.FirstOrDefault();
-                var legend = mediaInfo.SubtitleStreams.FirstOrDefault();
+                var audioStreamList = mediaInfo.AudioStreams.ToList();
+                var audioStream = audioStreamList.FirstOrDefault(x => x.Language.Contains("por")) ?? audioStreamList.FirstOrDefault();
+
+                var legendList = mediaInfo.SubtitleStreams.ToList();
+
+                var legend = legendList.FirstOrDefault(x => x.Language.Contains("por") && x.Title.Contains("Forced")) ?? legendList.FirstOrDefault();
 
                 if (videoStream == null || audioStream == null)
                 {
