@@ -490,11 +490,11 @@ namespace MultiVideoTools
                 var mediaInfo = await FFmpeg.GetMediaInfo(inputPath);
                 var videoStream = mediaInfo.VideoStreams.FirstOrDefault();
                 var audioStreamList = mediaInfo.AudioStreams.ToList();
-                var audioStream = audioStreamList.FirstOrDefault(x => x.Language.Contains("por")) ?? audioStreamList.FirstOrDefault();
+                var audioStream = audioStreamList.FirstOrDefault(x => x.Language.Contains("por") || x.Language.Contains("Brazilian")) ?? audioStreamList.FirstOrDefault();
 
                 var legendList = mediaInfo.SubtitleStreams.ToList();
 
-                var legend = legendList.FirstOrDefault(x => x.Language.Contains("por") && x.Title.Contains("Forced")) ?? legendList.FirstOrDefault();
+                var legend = legendList.FirstOrDefault(x => (x.Language.Contains("por") || x.Language.Contains("Brazilian (Forced)")) && x.Title.Contains("Forced")) ?? legendList.FirstOrDefault();
 
                 if (videoStream == null || audioStream == null)
                 {
