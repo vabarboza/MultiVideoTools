@@ -480,10 +480,7 @@ namespace MultiVideoTools
             try
             {
                 string ffmpegPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "ffmpeg");
-                if (string.IsNullOrEmpty(ffmpegPath))
-                {
-                    await FFmpegDownloader.GetLatestVersion(FFmpegVersion.Official, ffmpegPath);
-                }
+                await FFmpegDownloader.GetLatestVersion(FFmpegVersion.Official, ffmpegPath);
 
                 FFmpeg.SetExecutablesPath(ffmpegPath);
 
@@ -494,7 +491,10 @@ namespace MultiVideoTools
 
                 var legendList = mediaInfo.SubtitleStreams.ToList();
 
-                var legend = legendList.FirstOrDefault(x => (x.Language.Contains("por") || x.Language.Contains("Brazilian (Forced)")) && x.Title.Contains("Forced")) ?? legendList.FirstOrDefault();
+                var legend = legendList.FirstOrDefault(x =>
+                    ((x.Language?.Contains("por") ?? false) || (x.Language?.Contains("Brazilian (Forced)") ?? false))
+                    && (x.Title?.Contains("Forced") ?? false)
+                ) ?? legendList.FirstOrDefault();
 
                 if (videoStream == null || audioStream == null)
                 {
