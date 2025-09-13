@@ -487,7 +487,7 @@ namespace MultiVideoTools
                 var mediaInfo = await FFmpeg.GetMediaInfo(inputPath);
                 var videoStream = mediaInfo.VideoStreams.FirstOrDefault();
                 var audioStreamList = mediaInfo.AudioStreams.ToList();
-                var audioStream = audioStreamList.FirstOrDefault(x => x.Language.Contains("por") || x.Language.Contains("Brazilian")) ?? audioStreamList.FirstOrDefault();
+                var audioStream = audioStreamList.FirstOrDefault(x => (x.Language?.Contains("por") ?? false) || (x.Language?.Contains("Brazilian") ?? false)) ?? audioStreamList.FirstOrDefault();
 
                 var legendList = mediaInfo.SubtitleStreams.ToList();
 
